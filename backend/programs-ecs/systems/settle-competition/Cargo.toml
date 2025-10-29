@@ -1,0 +1,30 @@
+[package]
+name = "settle-competition"
+version = "0.2.6"
+description = "Created with Bolt"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "settle_competition"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+idl-build = ["bolt-lang/idl-build"]
+anchor-debug = ["bolt-lang/anchor-debug"]
+custom-heap = []
+custom-panic = []
+
+
+[dependencies]
+bolt-lang = "0.2"
+serde = { version = "1.0", features = ["derive"] }
+mpl-token-metadata = { version = "5.0.0", features = ["serde"] }
+anchor-spl = { version = "0.30.1", features = ["default"] }
+leaderboard = { path = "../../components/leaderboard" }
+trading-account = { path = "../../components/trading-account" }
+competition = { path = "../../components/competition" }

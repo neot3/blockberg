@@ -1,0 +1,12 @@
+{
+  "worldId": "2409",
+  "worldPda": "CVndFdiiuFhkcLEQy71JomGwgZT8Lqeq9oFuU14E9Ngk",
+  "competitionEntity": "5ebXENtrEamPapRhzMGjvrcavWwrEwWiY4Yftjx3wUsk",
+  "timestamp": "2025-10-26T19:31:00.000Z",
+  "systemsApproved": [
+    "JOIN_COMPETITION",
+    "OPEN_POSITION",
+    "CLOSE_POSITION",
+    "SETTLE_COMPETITION"
+  ]
+}
