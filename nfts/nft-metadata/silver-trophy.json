@@ -1,0 +1,41 @@
+{
+  "name": "Silver Trophy - 2nd Place",
+  "symbol": "SILVER",
+  "description": "Epic Silver Trophy NFT awarded to the 2nd place finisher of the MagicBlock Trading Competition. This trophy represents elite trading skills and impressive performance.",
+  "image": "https://arweave.net/silver-trophy.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "2nd Place"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Prize Share",
+      "value": "30%"
+    },
+    {
+      "trait_type": "Competition Type",
+      "value": "Trading Competition"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Technology",
+      "value": "MagicBlock Ephemeral Rollups"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/silver-trophy.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Bronze Trophy - 3rd Place",
+  "symbol": "BRONZE",
+  "description": "Rare Bronze Trophy NFT awarded to the 3rd place finisher of the MagicBlock Trading Competition. This trophy marks outstanding trading ability and competitive achievement.",
+  "image": "https://arweave.net/bronze-trophy.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "3rd Place"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Prize Share",
+      "value": "20%"
+    },
+    {
+      "trait_type": "Competition Type",
+      "value": "Trading Competition"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Technology",
+      "value": "MagicBlock Ephemeral Rollups"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/bronze-trophy.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

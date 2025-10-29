@@ -1,0 +1,41 @@
+{
+  "name": "Gold Trophy - 1st Place",
+  "symbol": "GOLD",
+  "description": "Legendary Gold Trophy NFT awarded to the 1st place winner of the MagicBlock Trading Competition. This trophy commemorates exceptional trading performance and strategic mastery.",
+  "image": "https://arweave.net/gold-trophy.png",
+  "attributes": [
+    {
+      "trait_type": "Rank",
+      "value": "1st Place"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Prize Share",
+      "value": "50%"
+    },
+    {
+      "trait_type": "Competition Type",
+      "value": "Trading Competition"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Technology",
+      "value": "MagicBlock Ephemeral Rollups"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/gold-trophy.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
