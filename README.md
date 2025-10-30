@@ -2,7 +2,7 @@
 
 ## TERMINAL DERIVATIVES TRADING INFRA ON SOLANA
 
-Blockberg is our trading terminal with on-chain settlement for cryptocurrency derivatives. 
+Blockberg is our trading terminal on Solana for cryptocurrency derivatives with MagicBlock and Pyth integration. 
 
 ---
 
